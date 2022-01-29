@@ -24,8 +24,8 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn clean test 
-    - name: Allure report simple
-      uses: esemi/action-allure-report@v0.2.0
+    - name: Allure report
+      uses: afiore/action-allure-report@v0.1.0
 
       
    
