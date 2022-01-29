@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://SoftwareAutomationTestLab.github.io/AllureReportTest",
+  "buildOrder" : 17,
+  "buildName" : "GitHub Actions Run #1767091600",
+  "buildUrl" : "https://github.com/SoftwareAutomationTestLab/AllureReportTest/actions/runs/1767091600",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://SoftwareAutomationTestLab.github.io/AllureReportTest/17/"
+} ]

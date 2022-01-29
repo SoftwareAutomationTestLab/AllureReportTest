@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az39-643",
+    "children" : [ {
+      "name" : "2758@fv-az39-643.TestNG-test=Test-2(26)",
+      "children" : [ {
+        "name" : "open google and get tile in 2",
+        "uid" : "9c83c3b27c26c0d9",
+        "parentUid" : "c7de57f405918729eddd92105393b13f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643498845934,
+          "stop" : 1643498846595,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7de57f405918729eddd92105393b13f"
+    }, {
+      "name" : "2758@fv-az39-643.TestNG-test=Test-1(25)",
+      "children" : [ {
+        "name" : "open google and get tile",
+        "uid" : "dd3524f4e51d084d",
+        "parentUid" : "c7bde89f48355aaa9d92525609332129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643498845929,
+          "stop" : 1643498846613,
+          "duration" : 684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7bde89f48355aaa9d92525609332129"
+    } ],
+    "uid" : "8de59c84d635ee37fa85dfd3d3aead89"
+  } ],
+  "name" : "timeline"
+}

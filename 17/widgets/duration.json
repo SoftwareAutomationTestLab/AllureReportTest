@@ -1,0 +1,21 @@
+[ {
+  "uid" : "9c83c3b27c26c0d9",
+  "name" : "open google and get tile in 2",
+  "time" : {
+    "start" : 1643498845934,
+    "stop" : 1643498846595,
+    "duration" : 661
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd3524f4e51d084d",
+  "name" : "open google and get tile",
+  "time" : {
+    "start" : 1643498845929,
+    "stop" : 1643498846613,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
