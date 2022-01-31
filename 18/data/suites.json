@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "mypackage.myTest1",
+        "children" : [ {
+          "name" : "open google and get tile in 2",
+          "uid" : "ace29bc59f221020",
+          "parentUid" : "f6d6c2af54734494c3de3e3f35b23b89",
+          "status" : "passed",
+          "time" : {
+            "start" : 1643651781432,
+            "stop" : 1643651782508,
+            "duration" : 1076
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f6d6c2af54734494c3de3e3f35b23b89"
+      }, {
+        "name" : "mypackage.myTest",
+        "children" : [ {
+          "name" : "open google and get tile",
+          "uid" : "976dff3625a2b385",
+          "parentUid" : "17887b22626347e88be92f276c061d9a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1643651781433,
+            "stop" : 1643651782589,
+            "duration" : 1156
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "17887b22626347e88be92f276c061d9a"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ],
+  "name" : "suites"
+}

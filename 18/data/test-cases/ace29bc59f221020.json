@@ -1,0 +1,154 @@
+{
+  "uid" : "ace29bc59f221020",
+  "name" : "open google and get tile in 2",
+  "fullName" : "mypackage.myTest1.opengoogle",
+  "historyId" : "27ac6e3534630e26b3f48f93a50461a3",
+  "time" : {
+    "start" : 1643651781432,
+    "stop" : 1643651782508,
+    "duration" : 1076
+  },
+  "description" : "Test Case 1",
+  "descriptionHtml" : "<p>Test Case 1</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1643651775238,
+      "stop" : 1643651781079,
+      "duration" : 5841
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1643651781080,
+      "stop" : 1643651781333,
+      "duration" : 253
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1643651782659,
+      "stop" : 1643651782728,
+      "duration" : 69
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1643651782729,
+      "stop" : 1643651782797,
+      "duration" : 68
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "mypackage.myTest1"
+  }, {
+    "name" : "testClass",
+    "value" : "mypackage.myTest1"
+  }, {
+    "name" : "testMethod",
+    "value" : "opengoogle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "mypackage.myTest1"
+  }, {
+    "name" : "host",
+    "value" : "fv-az123-129"
+  }, {
+    "name" : "thread",
+    "value" : "2811@fv-az123-129.TestNG-test=Test-2(26)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: check google"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9c83c3b27c26c0d9",
+        "reportUrl" : "https://SoftwareAutomationTestLab.github.io/AllureReportTest/17//#testresult/9c83c3b27c26c0d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643498845934,
+          "stop" : 1643498846595,
+          "duration" : 661
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ace29bc59f221020.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az123-129",
+    "children" : [ {
+      "name" : "2811@fv-az123-129.TestNG-test=Test-1(25)",
+      "children" : [ {
+        "name" : "open google and get tile",
+        "uid" : "976dff3625a2b385",
+        "parentUid" : "c31db470a0f07f9c8ff64b1b1395cbf0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643651781433,
+          "stop" : 1643651782589,
+          "duration" : 1156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c31db470a0f07f9c8ff64b1b1395cbf0"
+    }, {
+      "name" : "2811@fv-az123-129.TestNG-test=Test-2(26)",
+      "children" : [ {
+        "name" : "open google and get tile in 2",
+        "uid" : "ace29bc59f221020",
+        "parentUid" : "154b572ba60c1bee9096645c538231f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643651781432,
+          "stop" : 1643651782508,
+          "duration" : 1076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "154b572ba60c1bee9096645c538231f7"
+    } ],
+    "uid" : "5a4532546fc5cb190bfae55606f658eb"
+  } ],
+  "name" : "timeline"
+}

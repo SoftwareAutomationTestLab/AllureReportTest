@@ -1,0 +1,35 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Story Name: check google",
+    "children" : [ {
+      "name" : "open google and get tile in 2",
+      "uid" : "ace29bc59f221020",
+      "parentUid" : "8430001ac93396a9eae41d19abc99286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643651781432,
+        "stop" : 1643651782508,
+        "duration" : 1076
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "open google and get tile",
+      "uid" : "976dff3625a2b385",
+      "parentUid" : "8430001ac93396a9eae41d19abc99286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643651781433,
+        "stop" : 1643651782589,
+        "duration" : 1156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8430001ac93396a9eae41d19abc99286"
+  } ],
+  "name" : "behaviors"
+}
